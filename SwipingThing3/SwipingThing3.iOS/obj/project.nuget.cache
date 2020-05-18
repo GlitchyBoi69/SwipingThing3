@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VMqpYQs9CpDExhVxDSPGLdB+JjsYVgpzxG6CTA33e76wJs6cUxuIihSpPIIZxSXSSaQ32S59M+za6K4JCqAA9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spenc\\RiderProjects\\SwipingThing3\\SwipingThing3\\SwipingThing3.iOS\\SwipingThing3.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spenc\\.nuget\\packages\\xamarin.forms\\4.4.0.991640\\xamarin.forms.4.4.0.991640.nupkg.sha512"
+  ],
+  "logs": []
+}

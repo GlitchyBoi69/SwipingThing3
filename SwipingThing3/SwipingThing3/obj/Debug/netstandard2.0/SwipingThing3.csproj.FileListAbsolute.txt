@@ -1,0 +1,12 @@
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\bin\Debug\netstandard2.0\SwipingThing3.deps.json
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\bin\Debug\netstandard2.0\SwipingThing3.dll
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\bin\Debug\netstandard2.0\SwipingThing3.pdb
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.csprojAssemblyReference.cache
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.csproj.CoreCompileInputs.cache
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.AssemblyInfoInputs.cache
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.AssemblyInfo.cs
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.dll
+C:\Users\spenc\RiderProjects\SwipingThing3\SwipingThing3\SwipingThing3\obj\Debug\netstandard2.0\SwipingThing3.pdb
